@@ -8,3 +8,5 @@ Dataset for training and testing can be downloaded from one of following two lin
 Google Drive: https://drive.google.com/file/d/15qWtj9L3FsjAX0pPB4RS90LWAyWctfhw/view?usp=sharing.
 
 Baidu Cloud: https://pan.baidu.com/s/1oKm2WWBgyySLPderfa-Vcw with extract code: 2k93
+
+This dataset contains 12 infared sequences for 1 training CFRP sample, 12 infrared sequences for 3 testing CFRP samples and corresponding defect detection and depth estimation labels. Infrared sequences are stored with uint16 gray images format, and labels are stored with .mat format by MATLAB.
