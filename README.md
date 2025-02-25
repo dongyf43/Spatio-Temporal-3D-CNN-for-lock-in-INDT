@@ -13,20 +13,13 @@ This dataset contains 12 infrared sequences for 1 training CFRP sample, 12 infra
 
 If you have any question, please contact dongyf@zju.edu.cn, and if you find this code helpful, please consider to cite our work:
 
->@ARTICLE{9511085,
->
->  author={Dong, Yafei and Xia, Chenjie and Yang, Jiangxin and Cao, Yanlong and Cao, Yanpeng and Li, Xin},
->
->  journal={IEEE Transactions on Industrial Informatics}, 
->  
->  title={Spatio-temporal 3D Residual Networks for Simultaneous Detection and Depth Estimation of CFRP Subsurface Defects in Lock-in Thermography}, 
->  
->  year={2021},
->  
->  volume={},
->  
->  number={},
->  
->  pages={1-1},
->  
->  doi={10.1109/TII.2021.3103019}}
+@ARTICLE{9511085,<br>
+  author={Dong, Yafei and Xia, Chenjie and Yang, Jiangxin and Cao, Yanlong and Cao, Yanpeng and Li, Xin},<br>
+  journal={IEEE Transactions on Industrial Informatics}, <br>
+  title={Spatio-Temporal 3-D Residual Networks for Simultaneous Detection and Depth Estimation of CFRP Subsurface Defects in Lock-In Thermography}, <br>
+  year={2022},<br>
+  volume={18},<br>
+  number={4},<br>
+  pages={2571-2581},<br>
+  keywords={Image sequences;Solid modeling;Three-dimensional displays;Training;Testing;Estimation;Task analysis;Carbon fiber reinforced polymer (CFRP);defect detection;depth estimation;lock-in thermography;nondestructive testing;spatio-temporal 3-D convolution},<br>
+  doi={10.1109/TII.2021.3103019}}<br>
