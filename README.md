@@ -14,9 +14,7 @@ This dataset contains 12 infrared sequences for 1 training CFRP sample, 12 infra
 If you have any question, please contact dongyf@zju.edu.cn, and if you find this code helpful, please consider to cite our work:
 
 >@ARTICLE{9511085,
->
 >  author={Dong, Yafei and Xia, Chenjie and Yang, Jiangxin and Cao, Yanlong and Cao, Yanpeng and Li, Xin},
->  
 >  journal={IEEE Transactions on Industrial Informatics}, 
 >  
 >  title={Spatio-temporal 3D Residual Networks for Simultaneous Detection and Depth Estimation of CFRP Subsurface Defects in Lock-in Thermography}, 
